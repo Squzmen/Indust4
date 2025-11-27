@@ -23,11 +23,12 @@
 - Clipboard API
 
 ## Установка
+```
 git clone https://github.com/ваш-username/nickname-generator.git
 cd nickname-generator
 npm install
 npm run dev
-
+```
 Приложение откроется на `http://localhost:5173`
 
 ## Структура проекта
