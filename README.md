@@ -22,7 +22,7 @@
 
 ## Установка
 ```
-git clone https://github.com/ваш-username/nickname-generator.git
+git clone https://github.com/Squzmen/indust4.git
 cd nickname-generator
 npm install
 npm run dev
@@ -53,5 +53,5 @@ Squzmen — студент курса React
 
 ## Ссылка на GitHub
 
-https://github.com/Squzmen/nickname-generator
+https://github.com/Squzmen/indust4
 
