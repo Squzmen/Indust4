@@ -32,7 +32,7 @@ npm run dev
 Приложение откроется на `http://localhost:5173`
 
 ## Структура проекта
-
+```
 nickname-generator/
 ├── src/
 │ ├── App.jsx # Основной компонент
@@ -40,9 +40,12 @@ nickname-generator/
 │ └── main.jsx # Точка входа
 ├── package.json
 └── README.md
-
+```
 ## Скриншоты
-
+### Главная страница
+![Главная страница](screenshots/main.png)
+### Генерация никнеймов
+![Генерация никнеймов](screenshots/generation.png)
 ### Копирование
 ![Копирование](screenshots/copy.png)
 
