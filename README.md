@@ -23,7 +23,7 @@
 ## Установка
 ```
 git clone https://github.com/Squzmen/indust4.git
-cd nickname-generator
+cd indust4
 npm install
 npm run dev
 ```
